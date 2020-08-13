@@ -8,9 +8,9 @@ This is a practice Github repository
 - [x] 2.) Clone the forked copy of your repository to your local computer  
 - [x] 3.) Open the repository in your preferred text editor (I like Sublime)  
 - [x] 4.) Add an 'x' to the steps you've completed, and save  
-- [ ] 5.) Add a commit message and 'Commit to master'  
-- [ ] 6.) Push commit to Github. Do you see them reflected in your repository?  
-- [ ] 7.) Open Project in R Studio  
+- [x] 5.) Add a commit message and 'Commit to master'  
+- [x] 6.) Push commit to Github. Do you see them reflected in your repository?  
+- [x] 7.) Open Project in R Studio  
 - [ ] 8.) Create an R script file with some R code + save  
 - [ ] 9.) Commit changes and push to Github  
 
